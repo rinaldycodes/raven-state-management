@@ -1,0 +1,30 @@
+{
+  "name": "raven-state-management",
+  "version": "1.0.10",
+  "description": "is a powerful package that simplifies global state management in React Native applications. It utilizes the Context API, making it easy to share state across your entire app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "global state",
+    "state management",
+    "context API",
+    "state provider",
+    "react",
+    "state sharing",
+    "stateful",
+    "stateful components",
+    "state handling",
+    "reactive programming",
+    "react context",
+    "app state",
+    "data sharing",
+    "raven state management",
+    "react js raven state management",
+    "react native state management"
+  ],
+  "author": "",
+  "license": "ISC"
+}
